@@ -14,7 +14,7 @@
 ```
 # Map
 [Interactive Map](https://www.aidedd.org/atlas/index.php?map=I&l=1)
-![icewind-dale-5786-4008.jpg](/img/user/generated/icewind-dale-5786-4008.jpg)
+![IWD_map.jpg](/img/user/_attachments/IWD_map.jpg)
 
 # About
 This is a digital garden of all DnD resoruces that are shared between players and DM of a modified rendition of the Rime of the Frostmaiden Adventure.
