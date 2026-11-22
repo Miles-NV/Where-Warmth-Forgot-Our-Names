@@ -7,7 +7,6 @@
 | Session                                                                                             | Saga                       |
 | --------------------------------------------------------------------------------------------------- | -------------------------- |
 | [[Journal/Sessions/Secrets\|Secrets]] \-                                                         | \-                         |
-| [[Journal/Sessions/Custom Icewind Dale Backgrounds\|Custom Icewind Dale Backgrounds]] \-         | \-                         |
 | [[Journal/Sessions/00\|00]] Players and DM setting the ground rules for campaign moving forward. | Before The First Snow Fell |
 
 { .block-language-dataview}
