@@ -1,0 +1,20 @@
+{
+  "/": [
+    "Home",
+    "House Rules",
+    "Journal",
+    "Places"
+  ],
+  "/Journal": [
+    "Sessions"
+  ],
+  "/Journal/Sessions": [
+    "00"
+  ],
+  "/Places": [
+    "Ten-Towns"
+  ],
+  "/Places/Ten-Towns": [
+    "Bryn Shander"
+  ]
+}
