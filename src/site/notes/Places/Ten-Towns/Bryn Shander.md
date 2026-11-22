@@ -21,7 +21,7 @@ just off the central square, storing arms for the militia of Bryn Shander.
 
 ## Blackiron Blades
 
-Manned by shield dwarf siblings, [[Places/Ten-Towns/Garn the Hammer\|Garn the Hammer]] and [[Elza\|Elza]], this *smithy and outfitter* provides both blade and supplies—including rations, cold weather gear, ice picks, and snowshoes—to fortune seekers. 
+Manned by shield dwarf siblings, [[Characters/Ten-Towns/Bryn Shander/Garn the Hammer\|Garn the Hammer]] and [[Elza\|Elza]], this *smithy and outfitter* provides both blade and supplies—including rations, cold weather gear, ice picks, and snowshoes—to fortune seekers. 
 
 ## House of the Morninglord
 
@@ -66,9 +66,10 @@ A private residence, with an overstated moniker of "palace". Fashioned by dwarve
 Largest trade house in Shander, on the site of the original cabin which started this settlement. The finest goods can be for steep prices.
 
 # Characters
-| Character                                                               | Role                  | Race         | Age    | Sex | Descriptors                                               |
-| ----------------------------------------------------------------------- | --------------------- | ------------ | ------ | --- | --------------------------------------------------------- |
-| [[Characters/Ten-Towns/Bryn Shander/Hlin Trollbane\|Hlin Trollbane]] | Veteran Bounty Hunter | Shield Dwarf | Mature | F   | <ul><li>Rightous</li><li>Moralist</li><li>Sharp</li></ul> |
+| Character                                                                 | Role                  | Race         | Age    | Sex | Descriptors                                               |
+| ------------------------------------------------------------------------- | --------------------- | ------------ | ------ | --- | --------------------------------------------------------- |
+| [[Characters/Ten-Towns/Bryn Shander/Garn the Hammer\|Garn the Hammer]] | \-                    | \-           | \-     | \-  | \-                                                        |
+| [[Characters/Ten-Towns/Bryn Shander/Hlin Trollbane\|Hlin Trollbane]]   | Veteran Bounty Hunter | Shield Dwarf | Mature | F   | <ul><li>Rightous</li><li>Moralist</li><li>Sharp</li></ul> |
 
 { .block-language-dataview}
 
